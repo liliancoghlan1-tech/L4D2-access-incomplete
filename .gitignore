@@ -1,0 +1,14 @@
+# Build artifacts
+*.obj
+*.exp
+*.lib
+build_err.txt
+build_out.txt
+build_run.bat
+
+# Compiled outputs in component build dirs (not dist/)
+extension/nvda.ext.dll
+mm_plugin/nvda_menu.dll
+
+# SourceMod + HL2 SDKs (download separately to build)
+extension/sdk/
