@@ -1,4 +1,4 @@
- The first thing I want to stress is that this does not make the game fully accessible. As of right now, you will need a cited friend in order to play through the game, though left for dead works best as a co-op shooter anyway. rest assured I am working on it but it might take awhile before the game is fully playable. 
+ The first thing I want to stress is that this does not make the game fully accessible. As of right now, you will need a cited friend in order to play through the game, though left for dead works best as a co-op shooter anyway. unfortunately, implementing a functional navigation assist is beyond my capabilities, so I'm sorry to say that it is unlikely left for dead 2  can be made fully accessible, by Me at least.  
 
 also, you must host the lobby when playing with friends as the mod requires that to work. 
 
@@ -32,8 +32,8 @@ known issues.
 
 •achievements menu, which is also accessible through Steam. 
 
-Single player navigation is unfortunately not possible at this time. it is my plan to add a form of navigation assist via an audio beacon that attaches to objects listed in a scanner. I have No idea whether that would be possible however, so I figured something released was better than potentially nothing at all. 
+ 
 
-essentially, this is a beta test while I try and get the rest of it running. 
+  
 
 any issues, don't hesitate to reach out         
