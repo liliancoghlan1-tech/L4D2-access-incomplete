@@ -36,4 +36,16 @@ known issues.
 
   
 
+## support me. 
+
+ I will never lock a mod behind a paywall, but the tools I use to create them don't come cheap. any support means the absolute world and is a massive help in the creation of new mods like this one. 
+
+patreon
+
+https://www.patreon.com/Lily4080?utm_campaign=creatorshare_creator
+
+buy me a Coffee 
+
+ https://buymeacoffee.com/liliancogha 
+
 any issues, don't hesitate to reach out         
